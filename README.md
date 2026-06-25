@@ -42,4 +42,4 @@ IBM Telco Customer Churn Dataset
 - requirements.txt
 
 ## Author
-Sunil Kumar
+SunilKumar B
